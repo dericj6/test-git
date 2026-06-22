@@ -4,3 +4,5 @@ lorem ipsum...
 
 git commit with file name: steps over git add for second ones
 But with no file name, git commit stores it to local repo but all files in repo (do first and then one push)
+
+change added from github.com directly
